@@ -1,0 +1,22 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #192142;
+    height: 60px;
+    padding-right: 20px;
+    filter: drop-shadow(0 0 0.5rem rgb(213, 213, 213));
+    font-weight: 400;
+}
+
+.nav * {
+    all: unset;
+    padding: 20px;
+    color: white;
+    cursor: pointer;
+    height: 20px;
+}
+
+#clickable *:hover {
+    background-color: #283258;
+}

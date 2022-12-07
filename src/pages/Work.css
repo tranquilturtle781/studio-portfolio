@@ -1,0 +1,71 @@
+.page2 {
+    margin: 60px 20% 0 20%;
+    padding-bottom: 100px;
+}
+
+.card {
+    width: max(40%,320px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    filter: drop-shadow(0 0 0.25rem rgb(228, 227, 227));
+}
+
+.links {
+    all: unset;
+    cursor: pointer;
+}
+
+/* hover styles adapted from https://stackoverflow.com/questions/14263594/how-to-show-text-on-image-when-hovering */
+.img_wrap {
+    position: relative;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .img_description {
+    position: absolute;
+    height: 98.2%;
+    margin: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.87);
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity .2s, visibility .2s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 15px 0 15px;
+    text-align: center;
+  }
+  
+  .img_wrap:hover .img_description {
+    visibility: visible;
+    opacity: 1;
+  }
+
+.card * {
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.projdisplay {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: space-around;
+}
+
+@media all and (max-width: 1075px) {
+    .page2 {
+        margin: 60px 11% 0 11%;
+    }
+  }
