@@ -1,6 +1,6 @@
 import './App.css';
 import ReactDOM from "react-dom";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
 import Project1 from "./pages/Project1.js";
 import Project2 from "./pages/Project2.js";
@@ -11,7 +11,7 @@ import Work from "./pages/Work.js";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route path="" element={<Work />} />
@@ -23,7 +23,7 @@ function App() {
           {/* add no page error page here */}
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
