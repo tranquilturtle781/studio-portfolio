@@ -22,7 +22,7 @@ export default function Work() {
                 <p className="img_description">How can we identify and address the usability issues of an existing interface?</p>
                 </div>
                 </Link>
-                <h4>Redesign: Red Balloon Bookshop</h4>
+                <h4>Usability: Red Balloon Bookshop</h4>
             </div>
             <div className="card">
             <Link className="links" to="/project3">
