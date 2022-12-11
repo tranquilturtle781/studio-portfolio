@@ -10,11 +10,21 @@ export default function About() {
             <div className="r">
             <div>
                 <h2>Hi! I'm tranquilturtle781.</h2>
-                <p id="bio">I'm a junior at Brown University studying Applied Mathematics and Computer Science. My primary interests lie in machine learning, data-driven research, and ethical AI. UI design is a new interest of mine that I have explored through a User Interfaces and User Experiences course at Brown. This portfolio serves as a demonstration of the skills I have developed from this course. </p>
+                <p id="bio">I'm a junior at Brown University studying Applied Mathematics and 
+                Computer Science. Although my primary interests lie in machine learning, data-driven 
+                research, and ethical AI, I have always been interested in the intersection of computer science
+                and design. I believe that to be an effective and responsible developer, you need to truly understand
+                users and the user experience.</p>
             </div>
             <img id="profilepic" src="turtle.png"></img>
             </div>
-            <p>I'm an avid [REDACTED], and my favorite way to start the morning is with a [REDACTED] and a [REDACTED].</p>
+            <p></p>
+            <h2>A little more about me</h2>
+            <ul>
+                <li>I love crosswords, both constructing and solving them.</li>
+                <li>I'm happiest when I'm outside. I spend most of my free time hiking, paddling, biking, and exploring the natural world. My favorite hike is the Mount Katahdin summit via the Knife Edge Trail!</li>
+                <li>I'm an avid crocheter and have crocheted several of my favorite pieces of clothing</li>
+            </ul>  
             <h2>Let's connect!</h2>
             <div className='social'>
                 <FontAwesomeIcon icon={faEnvelope} color='#192142'/>

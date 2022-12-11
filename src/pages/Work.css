@@ -21,6 +21,7 @@
     position: relative;
     height: 100%;
     width: 100%;
+    filter: drop-shadow(0 0 0.5rem rgb(213, 213, 213));
   }
   
   .img_description {
@@ -31,7 +32,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(0, 0, 0, 0.87);
+    background: rgba(0, 0, 0, 0.82);
     color: #fff;
     visibility: hidden;
     opacity: 0;

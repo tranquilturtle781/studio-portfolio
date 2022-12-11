@@ -5,6 +5,8 @@ import { BrowserRouter, Route, Link } from "react-router-dom";
 export default function Work() {
     return(
         <div className="page2">
+            <h2>MY PROCESS</h2>
+            <h2>MY WORK</h2>
             <div class="projdisplay">
             <div className="card">
             <Link className="links" to="/project1">
