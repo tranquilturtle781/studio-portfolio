@@ -12,10 +12,10 @@ function Navbar() {
       <div className="dropdown">
           <Link className="click" id="c1" to="/">WORK</Link>
           <div className="dropdown-content">
-          <Link to="/project1">PROJECT 1</Link>
-          <Link to="/project2">PROJECT 2</Link>
-          <Link to="/project3">PROJECT 3</Link>
-          <Link to="/project4">PROJECT 4</Link>
+          <Link to="/personas">PERSONAS</Link>
+          <Link to="/redesign">REDESIGN</Link>
+          <Link to="/iterativedesign">ITERATIVE DESIGN</Link>
+          <Link to="/development">DEVELOPMENT</Link>
           </div>
           </div>
           <Link className="click" to="/about">ABOUT</Link>

@@ -9,7 +9,7 @@ export default function About() {
         <div className="page">
             <div className="r">
             <div>
-                <h2>Hi! I'm tranquilturtle781.</h2>
+                <h2 className="about">Hi! I'm tranquilturtle781.</h2>
                 <p id="bio">I'm a junior at Brown University studying Applied Mathematics and 
                 Computer Science. Although my primary interests lie in machine learning, data-driven 
                 research, and ethical AI, I have always been interested in the intersection of computer science
@@ -18,13 +18,13 @@ export default function About() {
             </div>
             <img id="profilepic" src="turtle.png"></img>
             </div>
-            <h2>A little more about me</h2>
+            <h2 className="about">A little more about me</h2>
             <ul className="listabout">
                 <li>I love crosswords, both constructing and solving them.</li>
                 <li>I'm happiest when I'm outside. I spend most of my free time hiking, paddling, biking, and exploring the natural world. My favorite hike is the Mount Katahdin summit via the Knife Edge Trail!</li>
                 <li>I'm an avid crocheter and have crocheted several of my favorite pieces of clothing</li>
             </ul>  
-            <h2>Let's connect!</h2>
+            <h2 className="about">Let's connect!</h2>
             <div className='social'>
                 <FontAwesomeIcon icon={faEnvelope} color='#192142'/>
                 <p>tranquil_turtle@brown.edu</p>
