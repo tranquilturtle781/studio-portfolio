@@ -18,9 +18,8 @@ export default function About() {
             </div>
             <img id="profilepic" src="turtle.png"></img>
             </div>
-            <p></p>
             <h2>A little more about me</h2>
-            <ul>
+            <ul className="listabout">
                 <li>I love crosswords, both constructing and solving them.</li>
                 <li>I'm happiest when I'm outside. I spend most of my free time hiking, paddling, biking, and exploring the natural world. My favorite hike is the Mount Katahdin summit via the Knife Edge Trail!</li>
                 <li>I'm an avid crocheter and have crocheted several of my favorite pieces of clothing</li>
