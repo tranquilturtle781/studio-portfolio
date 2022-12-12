@@ -6,7 +6,7 @@ export default function Work() {
     return(
         <div className="page2">
             <h2>MY PROCESS</h2>
-            <p>INSERT CONTENT HERE THAT ESTABLISHES A THEME AND GIVES CONTEXT. INSERT CONTENT HERE THAT ESTABLISHES A THEME AND GIVES CONTEXT. INSERT CONTENT HERE THAT ESTABLISHES A THEME AND GIVES CONTEXT. INSERT CONTENT HERE THAT ESTABLISHES A THEME AND GIVES CONTEXT</p>
+            <p id="intro">As a student whose interests lie predominantly within the AI/ML sphere, I had minimal experience with UI design before this semester. However,  I believe that no matter your particular interests, to be an effective and responsible developer, you need to truly understand users and the user experience. With that in mind, I took a course on user interfaces and user experience this fall at Brown. This portfolio documents my journey as I explore the world of UI/UX, and learn what it takes to create meaningful, usable interfaces. </p>
             <h2>MY WORK</h2>
             <div class="projdisplay">
             <div className="card">

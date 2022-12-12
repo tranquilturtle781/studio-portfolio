@@ -13,8 +13,7 @@ export default function About() {
                 <p id="bio">I'm a junior at Brown University studying Applied Mathematics and 
                 Computer Science. Although my primary interests lie in machine learning, data-driven 
                 research, and ethical AI, I have always been interested in the intersection of computer science
-                and design. I believe that to be an effective and responsible developer, you need to truly understand
-                users and the user experience.</p>
+                and design.</p>
             </div>
             <img id="profilepic" src="turtle.png"></img>
             </div>

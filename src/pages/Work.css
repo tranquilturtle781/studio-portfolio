@@ -13,7 +13,9 @@ h4 {
     font-weight: 600;
 }
 
-
+#intro {
+    margin-bottom: 30px;
+}
 
 .card {
     width: max(40%,320px);
