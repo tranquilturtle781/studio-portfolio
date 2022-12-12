@@ -1,0 +1,14 @@
+
+.clicky {
+    all: unset;
+    background-color: #192142;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 2px;
+    filter: drop-shadow(0 0 0.5rem rgb(213, 213, 213));
+    cursor: pointer;
+}
+
+.clicky:hover {
+    background-color: #283258;
+}

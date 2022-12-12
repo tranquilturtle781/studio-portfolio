@@ -20,6 +20,10 @@
     border-radius: 50%;
 }
 
+ul {
+    padding-left: 15px;
+}
+
 .social {
     display: flex;
     
