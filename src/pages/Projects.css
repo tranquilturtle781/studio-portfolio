@@ -12,3 +12,12 @@
 .clicky:hover {
     background-color: #283258;
 }
+
+.info {
+    display: flex;
+    flex-direction: row;
+}
+
+#f {
+    max-width: 300px;
+}
