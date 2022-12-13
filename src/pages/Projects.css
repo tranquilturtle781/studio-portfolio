@@ -22,7 +22,7 @@
 
 .f {
     max-width: 400px;
-    min-width: 200px;
+    min-width: 300px;
     flex: 1 1 100px;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .toptext {
-    max-width: 400px;
-    min-width: 200px;
+    max-width: 500px;
+    min-width: 300px;
     flex: 1 1 100px;
 }
