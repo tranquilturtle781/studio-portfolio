@@ -13,16 +13,17 @@ export default function Project4() {
                 <p>I chose to work with a dataset that contains information about various fruits. By using this application, users can easily compare 
                     the nutritional contents of different fruits and learn a little bit about plant taxonomy!</p>
                 </div>
-                
-                <img src="fruit.png" id="f"></img>
+                    <img src="fruit.png" id="f"></img>
              </div>
-             <h4>Key Takeaways</h4>
+             <h2>Key Takeaways</h2>
              <p>Although my chosen dataset was relatively trivial, this project reinforced my understanding of React, which will allow me to build more interactive pages in the future.
                      In building this site, I also got practice with the aesthetic side of UI design, as I aimed to make my final product both visually appealing and easy to use.
                 </p>
+                <div className="wrapper">
              <form action="https://tranquilturtle781.github.io/fruit-development/" target="_blank">
                     <button type="submit" class="clicky">Explore the final product</button>
              </form>
+             </div>
         </div>
     )
 }
