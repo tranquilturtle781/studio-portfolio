@@ -18,12 +18,13 @@
     flex-wrap: wrap;
     gap: 50px;
     padding-bottom: 20px;
+    flex: 1 1 100px;
 }
 
 #f {
     max-width: 500px;
     height: fit-content;
-    min-width: 300px;
+    min-width: 200px;
 }
 
 .wrapper {
@@ -31,6 +32,6 @@
 }
 
 .toptext {
-    max-width: 600px;
-    min-width: 400px;
+    max-width: 400px;
+    min-width: 200px;
 }

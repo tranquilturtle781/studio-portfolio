@@ -13,7 +13,7 @@ export default function Project4() {
                 <p>I chose to work with a dataset that contains information about various fruits. By using this application, users can easily compare 
                     the nutritional contents of different fruits and learn a little bit about plant taxonomy!</p>
                 </div>
-                    <img src="fruit.png" id="f"></img>
+                <img src="fruit.png" id="f"></img>
              </div>
              <h2>Key Takeaways</h2>
              <p>Although my chosen dataset was relatively trivial, this project reinforced my understanding of React, which will allow me to build more interactive pages in the future.
