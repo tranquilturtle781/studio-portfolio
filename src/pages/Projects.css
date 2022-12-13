@@ -21,9 +21,8 @@
     flex: 1 1 100px;
 }
 
-#f {
-    max-width: 500px;
-    height: fit-content;
+.f {
+    max-width: 400px;
     min-width: 200px;
 }
 
