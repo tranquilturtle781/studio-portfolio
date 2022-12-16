@@ -1,5 +1,6 @@
 import "../App.css"
 import "./Projects.css"
+import video from '../figma2.mp4'
 
 export default function Project3() {
     return(
@@ -15,7 +16,7 @@ export default function Project3() {
             <p>After several rounds of sketching and low-fidelity prototyping, as well as group critique, we developed a final high-fidelity prototype. See the main features in the video below, or <a href="https://www.figma.com/proto/k61Sy11rurvyZB575Rj9Rv/Lo-Fi-Iterative-Design-(Copy)?node-id=53%3A2&amp;scaling=scale-down&amp;page-id=0%3A1&amp;starting-point-node-id=53%3A2&amp;hotspot-hints=0&amp;hide-ui=1" target="_blank">explore it yourself</a>.</p>
             <br></br>
             <video controls width="600" muted>
-            <source src="figma2.mp4" type="video/mp4"></source>
+            <source src={video} type="video/mp4"></source>
             </video>
             <br></br>
             <br></br>
