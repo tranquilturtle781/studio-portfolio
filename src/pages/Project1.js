@@ -6,15 +6,16 @@ export default function Project1() {
         <div className="page">
             <h2>PERSONAS: Assessing Elevator Controls</h2>
             <div className="info">
-                <div className="toptext">
+                <div className="toptext1">
                 <p>How much can we learn by observing and talking to real users? This project explores just that by attempting to step into users' shoes and learn from their interactions with a specific interface.</p>
                 <p>My chosen interface was an elevator control panel located in the main elevator of a building at Brown University.</p>
                 </div>
-                <div className="f">
+                <div className="f1">
                 <img src="interface.png"></img>
                 </div>
              </div>
-             <p>After both interviewing users as well as observing them in action, I generalized my findings in the form of two distinct personas, Friendy Fiona and Tired TA Tom. </p>
+             <p>After both interviewing users as well as observing them in action, I generalized my findings in the form of two distinct personas, <b>Friendly Fiona</b> and <b>Tired TA Tom</b>. </p>
+             <br></br>
              <div className="moreFlex">
                 <div className="moreFlexPart">
                     <img src="persona1.png"></img>
@@ -28,6 +29,7 @@ export default function Project1() {
              </div>
              <br></br>
             <p>After developing these personas, I chose to really dig into the Tired TA Tom persona by creating a storyboard that documents his user journey. </p>
+            <br></br>
              <div class="display">
                 <div class="card1">
                     <img src="1.jpg"></img>

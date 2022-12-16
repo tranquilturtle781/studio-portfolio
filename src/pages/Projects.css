@@ -17,7 +17,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     gap: 50px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 .f {
@@ -37,11 +37,24 @@
     flex: 1 1 100px;
 }
 
+.toptext1 {
+    max-width: 500px;
+    min-width: 300px;
+    flex: 1 1 100px;
+}
+
+.f {
+    max-width: 300px;
+    min-width: 200px;
+    flex: 1 1 100px;
+    margin: auto;
+}
+
 .display {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 30px;
     padding-top: 20px;
     
 }
