@@ -18,11 +18,11 @@ export default function Project1() {
              <div className="moreFlex">
                 <div className="moreFlexPart">
                     <img src="persona1.png"></img>
-                    <p>Friendy Fiona represents the inexperienced users that don't use this elevator very frequently. She illustrates the struggles users shared regarding unintuitive buttons. </p>
+                    <p><b>Friendly Fiona</b> represents the inexperienced users that don't use this elevator very frequently. She illustrates the struggles users shared regarding unintuitive buttons. </p>
                 </div>
                 <div className="moreFlexPart">
                     <img src="persona2.png"></img>
-                    <p>Tired TA Tom is a busy student who is always running late. He represents the frequent users of this elevator that continue to struggle with the card swiping feature of the interface 
+                    <p><b>Tired TA Tom</b> is a busy student who is always running late. He represents the frequent users of this elevator that continue to struggle with the card swiping feature of the interface 
                     due to a lack of clear instructions.</p>
                 </div>
              </div>
