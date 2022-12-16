@@ -19,6 +19,9 @@ export default function Project3() {
             <source src={video} type="video/mp4"></source>
             </video>
             <br></br>
+            <h2>Key Takeaways</h2>
+             <p>In this project, I increased my proficiency in prototyping using Figma and practiced continually improving a design throughout group critique and user testing. </p>
+                <br></br>
             <br></br>
              <form action="https://lazytortoise905.github.io/iterative/" target="_blank">
                     <button type="submit" className="clicky">Explore the full project</button>
