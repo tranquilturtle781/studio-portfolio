@@ -22,10 +22,11 @@ export default function Project1() {
                 </div>
                 <div className="moreFlexPart">
                     <img src="persona2.png"></img>
-                    <p>TA Tom is a busy student who is always running late. He represents the frequent users of this elevator that continue to struggle with the card swiping feature of the interface 
+                    <p>Tired TA Tom is a busy student who is always running late. He represents the frequent users of this elevator that continue to struggle with the card swiping feature of the interface 
                     due to a lack of clear instructions.</p>
                 </div>
              </div>
+             <br></br>
             <p>After developing these personas, I chose to really dig into the Tired TA Tom persona by creating a storyboard that documents his user journey. </p>
              <div class="display">
                 <div class="card1">
