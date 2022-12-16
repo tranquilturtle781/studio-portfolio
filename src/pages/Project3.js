@@ -1,6 +1,6 @@
 import "../App.css"
 import "./Projects.css"
-import video from '../figma2.mp4'
+import video from '../figma.mp4'
 
 export default function Project3() {
     return(
