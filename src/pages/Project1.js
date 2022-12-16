@@ -76,7 +76,7 @@ export default function Project1() {
              <h2>Key Takeaways</h2>
              <p> In this project, I learned how to view an interface from the perspective of real users. I demonstrated my ability to learn
                 from users via a contextual inquiry, including writing questions for users that are stimulating yet objective. I also learned how to 
-                synthesize the information gained from users, and 
+                synthesize the information gained from users to develop compelling personas and map out the user journey.
                 </p>
                 <br></br>
                 <br></br>

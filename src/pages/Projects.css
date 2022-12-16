@@ -48,6 +48,11 @@
     min-width: 200px;
     flex: 1 1 100px;
     margin: auto;
+    z-index: -1;
+}
+
+.f1 * {
+    z-index: -1;
 }
 
 .display {
