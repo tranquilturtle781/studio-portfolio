@@ -72,6 +72,7 @@ export default function Project1() {
                     <p>Tom finally makes it to his hours, flustered and late. Five students are already waiting for his help.</p>
                 </div>
             </div>
+            <br></br>
              <h2>Key Takeaways</h2>
              <p> In this project, I learned how to view an interface from the perspective of real users. I demonstrated my ability to learn
                 from users via a contextual inquiry, including writing questions for users that are stimulating yet objective. I also learned how to 
