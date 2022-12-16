@@ -7,6 +7,7 @@ export default function Project4() {
              <h2>DEVELOPMENT: Interactive Data Display</h2>
              <div className="info">
                 <div className="toptext">
+                <p>My work on this project was centered on the guiding question: <i>How can we display information in an interactive and meaningful way?</i></p>
                 <p>I developed an interactive interface that visualizes a dataset, and allows users to filter and 
                     sort the displayed data based on its attributes, as well as add elements of the data to an aggregator. 
                     The interface was built using React, and leverages React's state structure to update components continuously based on users' actions.</p>
