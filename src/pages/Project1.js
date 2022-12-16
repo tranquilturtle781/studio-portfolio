@@ -78,6 +78,7 @@ export default function Project1() {
                 synthesize the information gained from users, and 
                 </p>
                 <br></br>
+                <br></br>
             <form action="https://tranquilturtle781.github.io/personas/" target="_blank">
                     <button type="submit" class="clicky">Explore the full project</button>
              </form>

@@ -43,7 +43,7 @@
     flex: 1 1 100px;
 }
 
-.f {
+.f1 {
     max-width: 300px;
     min-width: 200px;
     flex: 1 1 100px;
@@ -78,6 +78,6 @@
 
 .moreFlexPart {
     flex: 1 1;
-    max-width: 600px;
-    min-width: 400px;
+    max-width: 400px;
+    min-width: 300px;
 }
