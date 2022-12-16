@@ -19,7 +19,7 @@ export default function Project2() {
                 <div className="chunky1">
                 <h4>REDESIGN</h4>
                     <img id="new" src="1.png"></img>
-                    <p>My redesigned site addressed key usability and accessibility concerns from the original page.</p>
+                    <p>My redesigned site addressed key usability and accessibility concerns from the original page. It is a single-page redesign, so elements with external links have been replaced with dummy elements.</p>
                     <form action="https://tranquilturtle781.github.io/redballoonredesign/" target="_blank">
                         <button type="submit" class="clicky" id="bigclick" value="Visit New Site">Visit Redesigned Site</button>
                     </form>
