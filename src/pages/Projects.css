@@ -24,6 +24,7 @@
     max-width: 400px;
     min-width: 300px;
     flex: 1 1 100px;
+    margin: auto;
 }
 
 .wrapper {
@@ -44,12 +45,12 @@
     
 }
 
-.card {
+.card1 {
     flex: 1 1 100px; 
     max-width: 350px;
     min-width: 250px;
 }
 
-.card p {
+.card1 p {
     text-align: left;
 }

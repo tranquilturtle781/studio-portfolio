@@ -21,44 +21,44 @@ export default function Project1() {
             <img src="persona2.png"></img>
             <p>After developing these personas, I chose to really dig into the Tired TA Tom persona by creating a storyboard that documents his user journey. </p>
              <div class="display">
-                <div class="card">
-                    <img src="imgs/1.jpg"></img>
+                <div class="card1">
+                    <img src="1.jpg"></img>
                     <p>TA Tom is late for his hours in the CIT. He needs to get to room 502 as quickly as possible!</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/2.jpg"></img>
+                <div class="card1">
+                    <img src="2.jpg"></img>
                     <p>After running across campus, he reaches the elevator in the CIT and presses the up button (hurry!)</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/3.jpg"></img>
+                <div class="card1">
+                    <img src="3.jpg"></img>
                     <p>The elevator arrives and Tom steps inside. He hits floor 5 and waits, thinking he doesn't need to swipe this early.</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/4.jpg"></img>
+                <div class="card1">
+                    <img src="4.jpg"></img>
                     <p>The elevator doesn't move and the doors reopen!</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/5.jpg"></img>
+                <div class="card1">
+                    <img src="5.jpg"></img>
                     <p>Tom tries to press floor 5 then swipe his card, but the light on the card reader stays red.</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/6.jpg"></img>
+                <div class="card1">
+                    <img src="6.jpg"></img>
                     <p>He tries swiping his card the other way around. The light turns green, but the elevator doesn't move.</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/7.jpg"></img>
+                <div class="card1">
+                    <img src="7.jpg"></img>
                     <p>Tom is frustrated. He has held hours in the CIT for over a year, and he still can't remember how to swipe correctly!</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/8.jpg"></img>
+                <div class="card1">
+                    <img src="8.jpg"></img>
                     <p>He finally tries swiping first, then pressing floor 5.</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/9.jpg"></img>
+                <div class="card1">
+                    <img src="9.jpg"></img>
                     <p>The elevator starts moving up!</p>
                 </div>
-                <div class="card">
-                    <img src="imgs/10.jpg"></img>
+                <div class="card1">
+                    <img src="10.jpg"></img>
                     <p>Tom finally makes it to his hours, flustered and late. Five students are already waiting for his help.</p>
                 </div>
             </div>
