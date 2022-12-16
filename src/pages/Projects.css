@@ -54,3 +54,16 @@
 .card1 p {
     text-align: left;
 }
+
+.moreFlex {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    flex-wrap: wrap;
+}
+
+.moreFlexPart {
+    flex: 1 1;
+    min-width: max(40%,600px);
+    max-width: 800px;
+}
